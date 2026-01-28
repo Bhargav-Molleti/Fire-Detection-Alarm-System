@@ -41,6 +41,18 @@ This approach ensures accurate detection of flames while avoiding incorrect dete
 
 ---
 
+##YOLO FILES (MANDATORY DOWNLOAD)
+##Download these exact files:
+
+#🔹 yolov3.cfg
+https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+
+#🔹 yolov3.weights (≈240MB)
+https://pjreddie.com/media/files/yolov3.weights
+
+Place both in project root folder.
+---
+
 ## ▶️ How to Run
 
 It is recommended to use a virtual environment.
