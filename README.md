@@ -43,10 +43,10 @@ This approach ensures accurate detection of flames while avoiding incorrect dete
 
 ## ▶️ How to Run
 
-### 1️⃣ Install Dependencies
 It is recommended to use a virtual environment.
 
 ```bash
+### 1️⃣ Install Dependencies
 pip install -r requirements.txt
 
 ###2️⃣ Run Using Webcam
