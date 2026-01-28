@@ -48,3 +48,15 @@ It is recommended to use a virtual environment.
 
 ```bash
 pip install -r requirements.txt
+
+###2️⃣ Run Using Webcam
+```bash
+python yolo.py --webcam
+
+###3️⃣ Run Using Video File
+```bash
+python yolo.py --video --video_path videos/fire1.mp4
+
+###4️⃣ Run Using Image
+```bash
+python yolo.py --image --image_path fire.jpg
